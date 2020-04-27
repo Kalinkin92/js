@@ -1,0 +1,1 @@
+{"version":3,"file":"my-decorators.js","sourceRoot":"","sources":["../src/my-decorators.ts"],"names":[],"mappings":";;;;;;;;;;AACA,SAAS,oBAAoB,CAAC,WAAgB;IAC1C,OAAO,CAAC,GAAG,CAAC,WAAW,CAAC,CAAA;AAC5B,CAAC;AAGD,IAAM,WAAW,GAAjB,MAAM,WAAW;IACb,YAAmB,IAAY;QAAZ,SAAI,GAAJ,IAAI,CAAQ;IAAG,CAAC;CACtC,CAAA;AAFK,WAAW;IADhB,oBAAoB;;GACf,WAAW,CAEhB;AAED,IAAI,WAAW,CAAC,UAAU,CAAC,CAAA"}
